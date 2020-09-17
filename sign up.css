@@ -1,0 +1,157 @@
+h1{
+    color: white;
+    text-align: center;
+}
+
+#cow{
+    justify-content: space-between;
+}
+
+#man{
+    font-size:25px;
+    text-align: center;
+    justify-content: space-between;
+    color: white;
+    background-color: blue;
+}
+#kenya{
+    font-size:40px;
+    text-align: center;
+    color: turquoise;
+}
+#glass{
+    font-size: 24px;
+    text-align: center;
+    color: white;
+}
+#plastic{
+    font-size: 40px;
+    text-align: center;
+    color: turquoise;
+
+}
+*{
+    background-color: black;
+}
+#boy{
+    font-size:25px;
+    text-align: center;
+    justify-content: space-between;
+    color: rgb(2, 67, 247);
+    
+}
+#fname{
+    color: white;
+}
+#Sname{
+    color: white;   
+}
+#lname{
+    color: white;
+}
+#E-mail{
+    color: white;
+}
+#Uname{
+    color: white;
+}
+#password{
+    color: white;
+}
+height: 100%;
+padding:0px;
+margin:0px;
+background: white;
+}
+li,button {
+font-weight: 500;
+font-size:16px;
+color: black;
+}
+.page-title {
+display:flex;
+justify-content: space-between;
+align-items: center;
+padding:30px 10%;
+}
+.navigation{
+    color:white;
+    font-size: 24px;
+}
+.navigation li {
+display:inline;
+padding: 0px 25px;
+color: white;
+font-size: 18px;
+}
+.navigation li a {
+transtion: all 0.3s ease 0s
+padding: 40px;
+}
+.navigation li a:hover {
+color:limegreen;
+}
+.button {
+padding: 25px;
+background-color: rgba(darkgrey,0.8);
+}
+.page-title {
+background-color: #0B082B;
+}
+h1 {
+color:white;
+}
+.container {
+min-height: 100%;
+}
+/*Footer*/
+.footer {
+background-color:#0B082B;
+color:white;
+height:400px; 
+position: relative;
+}
+
+.footer .footer-bottom {
+background-color: indigo;
+height: 50px;
+width:100%;
+text-align:center;
+position: absolute;
+bottom:0px;
+left: 0px;
+padding-top: 20px; 
+}
+.footer .footer-content {
+height: 400px;
+display:flex;
+}
+.footer .footer-content .footer-section {
+flex: 1;
+padding: 25px;
+border: 1px solid white;
+}
+.footer .socials {
+color:white;
+}
+#submit{
+    color: white;
+}
+.henry{
+    color:white;
+}
+.navigation{
+    color:white;
+}
+.button{
+    color: black;
+    background-color: blue;
+}
+.kan{
+    color:white;
+}
+.nav_links li a{
+    color: white;
+    text-decoration: none;
+    
+}
