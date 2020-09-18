@@ -21,7 +21,7 @@ html, body {
     padding: 0px 25px;
     }
     .navigation li a {
-    transtion: all 0.3s ease 0s
+    transition: all 0.3s ease 0s
     }
     .navigation li a:hover {
     color:limegreen;
