@@ -39,7 +39,7 @@ padding: 40px;
     }
 
 #div {
-    background-image: url('/image/windows-domkevcg94s-unsplash.jpg');
+    background-image: url('./image/windows-domkevcg94s-unsplash.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
