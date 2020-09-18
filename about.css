@@ -23,6 +23,9 @@ html, body {
     .navigation li a {
     transition: all 0.3s ease 0s
     }
+    .navigation li a {
+        color:white;
+    }
     .navigation li a:hover {
     color:limegreen;
     }
